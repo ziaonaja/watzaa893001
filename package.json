@@ -1,0 +1,15 @@
+{
+  "name": "แทงหวยลาว ซื้อหวยลาว จ่ายบาทละ 1000 สูงที่สุดในไทย",
+  "theme": "syntax",
+  "version": "1.0.6",
+  "description": "แทงหวยลาว ซื้อหวยลาว จ่ายบาทละ 1000 สูงที่สุดในไทย",
+  "keywords": [
+    "แทงหวยลาว",
+    "ซื้อหวยลาว",
+  ],
+  "repository": "https://github.com/ziaonaja/watzaa893001",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
